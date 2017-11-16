@@ -1,0 +1,19 @@
+# Site settings
+title: 快乐学编程
+email: lsj178@139.com
+description: "快乐学编程(以python为例)."
+baseurl: ""
+url: "http://istudy666.github.io"
+twitter_username: istudy666
+github_username:  istudy666
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
