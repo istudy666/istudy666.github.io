@@ -1,5 +1,0 @@
-- h1: ["在机器学习前 - (零基础)", "/tutorials/python-basic/"]
-  h2:
-    - ["Python基础语法", "/tutorials/python-basic/basic/"]
-    - ["了解数据结构 (Numpy & Pandas)", "/tutorials/data-manipulation/np-pd/", ]
-    - ["学会展示数据 (Matplotlib)", "/tutorials/data-manipulation/plt/",]
