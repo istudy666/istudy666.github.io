@@ -2,7 +2,7 @@
 markdown: kramdown
 
 highlighter: rouge
-url: https://morvanzhou.github.io/
+url: https://istudy666.github.io/
 exclude: ['README.md']
 
 
@@ -43,8 +43,8 @@ defaults:
       path: "_tutorials"
     values:
       layout: tutorial-post
-      editor: 莫烦
-      author: 莫烦
+      editor: alex
+      author: alex
       author-link: "#"
       published: true  #TOD: change back to true
 

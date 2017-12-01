@@ -3,9 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ page.description }}">
-  <meta name="keywords" content="莫烦,python,tutorial,machine learning,{{ page.keywords }}">
-  <meta name="author" content="Mofan, Morvan,莫烦,周沫凡,周莫烦,{{ page.author }}">
   <meta name="thumbnail" content="{{ site.baseurl }}{{ page.thumbnail }}" />
   <title>{% if page.title != "" %}{{page.title}}{% endif %}{% if page.series %} - {{page.series}}{% endif %}{% if page.series or page.title != "" %} | {% endif %}莫烦Python</title>
 
@@ -43,7 +40,7 @@
     "dateModified": "{% if page.publish-date %}{{ page.publish-date }}{% else %} 2016-11-11 {% endif %}",
     "publisher": {
     "@type": "Organization",
-      "name":"莫烦Python",
+      "name":"istudy",
       "logo": {
         "@type": "ImageObject",
         "url": "{{ site.url }}/static/img/description/tab_icon.png",
@@ -61,7 +58,7 @@
       "description": "{{ page.description }}",
       "provider": {
         "@type": "Organization",
-        "name": "莫烦Python"
+        "name": "istudy"
       }
     }
   </script>
