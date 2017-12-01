@@ -1,6 +1,6 @@
 :root {
-  --c-n-mofan: #44a371;/*#3d9667;*/
-  --c-n: #4cb07b;
+  --c-n-mofan: #53a2ec;/*#3d9667;*/
+  --c-n: #8fdf28;
   --c-donation: var(--c-n);
   --c-donation-hover: var(--c-n-mofan);
   --c-about-table: #d8d8d8;
